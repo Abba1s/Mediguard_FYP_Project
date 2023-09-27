@@ -1,0 +1,43 @@
+.main{
+/* position: relative; */
+background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/Bg.jpg');
+background-position: center;
+background-size: cover;
+
+/* filter: brightness(0.8); */
+
+
+}
+
+
+/* .nav{
+    position: absolute; 
+    top: 0;
+} */
+
+
+.card1{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: rgba(23, 39, 87, 0.75);
+}
+.positioned{
+    display: flex;
+    position: absolute;
+    top: 122px;
+    left: 163;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.card2{
+    background-color:rgba(7, 19, 65, 0.75);
+}
+
+.my_button{
+width: 100px;
+height: 35px;
+}

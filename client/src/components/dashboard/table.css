@@ -1,0 +1,14 @@
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+thead{
+    font-size: large;
+}
+
+td {
+    text-align: center;
+    font-weight: bold;
+  }
